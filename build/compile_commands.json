@@ -1,0 +1,27 @@
+[
+{
+  "directory": "D:/development_code_2022-9-10/vscode/roomReservationSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/roomReservationSystem.dir/includes_CXX.rsp -g -Wall -fexec-charset=GBK -o CMakeFiles\\roomReservationSystem.dir\\src\\main.obj -c D:\\development_code_2022-9-10\\vscode\\roomReservationSystem\\src\\main.cpp",
+  "file": "D:/development_code_2022-9-10/vscode/roomReservationSystem/src/main.cpp"
+},
+{
+  "directory": "D:/development_code_2022-9-10/vscode/roomReservationSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/roomReservationSystem.dir/includes_CXX.rsp -g -Wall -fexec-charset=GBK -o CMakeFiles\\roomReservationSystem.dir\\src\\manager.obj -c D:\\development_code_2022-9-10\\vscode\\roomReservationSystem\\src\\manager.cpp",
+  "file": "D:/development_code_2022-9-10/vscode/roomReservationSystem/src/manager.cpp"
+},
+{
+  "directory": "D:/development_code_2022-9-10/vscode/roomReservationSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/roomReservationSystem.dir/includes_CXX.rsp -g -Wall -fexec-charset=GBK -o CMakeFiles\\roomReservationSystem.dir\\src\\orderFile.obj -c D:\\development_code_2022-9-10\\vscode\\roomReservationSystem\\src\\orderFile.cpp",
+  "file": "D:/development_code_2022-9-10/vscode/roomReservationSystem/src/orderFile.cpp"
+},
+{
+  "directory": "D:/development_code_2022-9-10/vscode/roomReservationSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/roomReservationSystem.dir/includes_CXX.rsp -g -Wall -fexec-charset=GBK -o CMakeFiles\\roomReservationSystem.dir\\src\\student.obj -c D:\\development_code_2022-9-10\\vscode\\roomReservationSystem\\src\\student.cpp",
+  "file": "D:/development_code_2022-9-10/vscode/roomReservationSystem/src/student.cpp"
+},
+{
+  "directory": "D:/development_code_2022-9-10/vscode/roomReservationSystem/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/roomReservationSystem.dir/includes_CXX.rsp -g -Wall -fexec-charset=GBK -o CMakeFiles\\roomReservationSystem.dir\\src\\teacher.obj -c D:\\development_code_2022-9-10\\vscode\\roomReservationSystem\\src\\teacher.cpp",
+  "file": "D:/development_code_2022-9-10/vscode/roomReservationSystem/src/teacher.cpp"
+}
+]

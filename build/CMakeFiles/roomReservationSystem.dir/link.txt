@@ -1,0 +1,3 @@
+D:\cmake-3.23.3-windows-x86_64\cmake-3.23.3-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\roomReservationSystem.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\roomReservationSystem.dir/objects.a @CMakeFiles\roomReservationSystem.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\roomReservationSystem.dir/objects.a -Wl,--no-whole-archive -o roomReservationSystem.exe -Wl,--out-implib,libroomReservationSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\roomReservationSystem.dir\linklibs.rsp
